@@ -32,7 +32,5 @@ Enigma for Police - Everything for Police at one place
 <a name="contri"></a>
 ## Contributors
 
-Team Name: Bob The Builders
-
 * [Aditi Kalita]
 * [Sanskar Jain]
